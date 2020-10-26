@@ -16,7 +16,7 @@
 	}
 	
 	.whb-sticked .whb-general-header-inner {
-		height: 60px;
+		height: 80px;
 	}
 	
 	.whb-sticked .whb-header-bottom-inner {
@@ -74,7 +74,7 @@
 	}
 	
 	.whb-sticked .whb-general-header .woodmart-logo img {
-		max-height: 60px;
+		max-height: 80px;
 	}
 	
 	/* HEIGHT OF LOGO IN BOTTOM HEADER */
@@ -123,19 +123,19 @@
 	
 	.whb-sticked:not(.whb-clone) .whb-general-header .whb-divider-stretch:before,
 	.whb-sticked:not(.whb-clone) .whb-general-header .navigation-style-bordered .item-level-0 > a {
-		height: 60px;
+		height: 80px;
 	}
 	
 	.whb-sticked:not(.whb-clone) .whb-general-header .woodmart-search-dropdown,
 	.whb-sticked:not(.whb-clone) .whb-general-header .dropdown-cart,
 	.whb-sticked:not(.whb-clone) .whb-general-header .woodmart-navigation:not(.vertical-navigation):not(.navigation-style-bordered) .sub-menu-dropdown {
-		margin-top: 10px;
+		margin-top: 20px;
 	}
 	
 	.whb-sticked:not(.whb-clone) .whb-general-header .woodmart-search-dropdown:after,
 	.whb-sticked:not(.whb-clone) .whb-general-header .dropdown-cart:after,
 	.whb-sticked:not(.whb-clone) .whb-general-header .woodmart-navigation:not(.vertical-navigation):not(.navigation-style-bordered) .sub-menu-dropdown:after {
-		height: 10px;
+		height: 20px;
 	}
 	
 	/* HEIGHT ELEMENTS IN BOTTOM HEADER */
