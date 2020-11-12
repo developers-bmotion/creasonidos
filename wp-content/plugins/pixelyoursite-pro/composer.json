@@ -1,0 +1,10 @@
+{
+    "name": "pixelyoursite/pro",
+    "description": "Track conversions and every action on your online store",
+    "type": "project",
+    "require": {
+        "facebook/php-business-sdk": "8.0.0",
+        "glenscott/url-normalizer": "1.4.0",
+        "techcrunch/wp-async-task": "dev-master"
+    }
+}

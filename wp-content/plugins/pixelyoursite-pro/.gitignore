@@ -1,0 +1,8 @@
+
+pixelyoursite-pro.zip
+.DS_Store
+vendor/facebook/php-business-sdk/examples/*
+vendor/facebook/php-business-sdk/.github/ISSUE_TEMPLATE.md
+vendor/facebook/php-business-sdk/bin/*
+vendor/facebook/php-business-sdk/CHANGELOG.md
+vendor/facebook/php-business-sdk/test/*
